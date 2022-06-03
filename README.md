@@ -10,6 +10,8 @@
 |-p|지정한 PID 프로세스를 모니터링|
 |-d|화면갱신주기를 초 단위로 설정|
 
+![top](https://user-images.githubusercontent.com/106798938/171818387-183e8018-f2bc-4d4d-bb6b-0ae5e005c2de.png)
+
 ---
 
 ># **ps**
@@ -67,6 +69,8 @@ kill 명령어는 프로세스를 강제로 종료시킨다.
 |---|---|
 |-signal, -s signal|지정한 시그널을 보냄|
 |-l|사용 가능한 시그널의 목록을 출력|
+
+![kill](https://user-images.githubusercontent.com/106798938/171818338-bbaf0d09-ffe0-45e0-a4fe-39805b74adbb.png)
 
 ---
 
